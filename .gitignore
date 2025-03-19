@@ -1,0 +1,22 @@
+# Ignore target folder (compiled files)
+target/
+
+# Ignore dependency libraries
+*.jar
+*.war
+*.ear
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+*.class
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+application.properties
+application.yml
