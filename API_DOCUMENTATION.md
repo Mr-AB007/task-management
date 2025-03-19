@@ -40,6 +40,7 @@ POST /api/auth/register
 }
 ```
 
+
 ### 2. Login
 ```http
 POST /api/auth/login
