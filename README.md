@@ -22,7 +22,7 @@ A Spring Boot REST API for managing tasks with JWT authentication and role-based
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:Mr-AB007/task-management.git
+git clone https://github.com/Mr-AB007/task-management.git
 cd task-management-system
 ```
 
